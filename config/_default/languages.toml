@@ -8,10 +8,10 @@
   contentDir = "content/en"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
 
 # Uncomment the lines below to configure your website in a second language.
-[fa]
-  languageCode = "fa_IR"
-  contentDir = "content/fa"
-  title = "آزمایشگاه صدرا"
+#[fa]
+# languageCode = "fa_IR"
+# contentDir = "content/fa"
+# title = "آزمایشگاه صدرا"
 #  [zh.params]
 #    description = "Site description in Chinese..."
 #  [[zh.menu.main]]
